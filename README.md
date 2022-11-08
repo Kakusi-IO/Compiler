@@ -14,7 +14,7 @@
 安装antlr4-python3-runtime
 
 ```
-pip install antlr4-python3-runtime
+pip install antlr4-python3-runtime == 4.7
 ```
 
 安装llvmlite
